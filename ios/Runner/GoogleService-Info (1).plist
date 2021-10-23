@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>710248529047-ja3fm03n3hq18290pt2ksrdaacju61n0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.710248529047-ja3fm03n3hq18290pt2ksrdaacju61n0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>710248529047-dhna1dmq046hkqp3qmo27mhq2rgo96bu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb5VUJPwWGLXRHoi8zsRhpBY1Xzw-QTz0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>710248529047</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ewalletapp</string>
+	<key>PROJECT_ID</key>
+	<string>e-wallet-b8f3f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-wallet-b8f3f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:710248529047:ios:0ebeca782f475ab92efdd2</string>
+</dict>
+</plist>
